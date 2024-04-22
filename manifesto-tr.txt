@@ -1,66 +1,64 @@
-Bilgi güçtür. Ama tüm güç gibi, bu gücü kendileri için saklamak isteyenler var.
-Dünyanın yüzyıllar boyunca kitap ve dergilerde yayınlanan tüm bilimsel ve
-kültürel mirası,  bir avuç özel kuruluşlar tarafından gittikçe daha fazla
-dijital ortama aktarılmış ve hapsedilmiştir. Bilimlerdeki en ünlü sonuçları
-sunan makaleleri okumak ister misiniz? Reed Elsevier gibi yayıncılara çok büyük
-miktarlar göndermeniz gerekecektir.
+Gerilla Açık Erişim Manifestosu
 
-Bu durumu değiştirmek için mücadele edenler vardır. Açık Erişim Hareketi, uzakta
-telif haklarını imzalamayan bilim adamlarını, bunun yerine çalışmalarının
-internette herkesin erişim izni koşulu altında yayınlanmış olmasından emin
-olmasını sağlamak için cesurca mücadele etmiştir. Ancak en iyi senaryolar
-altında bile, çalışmalar gelecekteki yayınlanacak şeyler için geçerli olacaktır.
-Şimdiye kadar her şey kaybedilmiştir.
+Bilgi güçtür. Ama tıpkı diğer güçler gibi, bu gücü kendileri için saklamak isteyenler var.
+Dünyanın yüzyıllar boyunca kitap ve dergilerde yayınlanan tüm bilimsel ve kültürel mirası
+bir avuç özel şirketler tarafından giderek daha fazla dijitalleştirilmiş ve hapsedilmiştir.
+Bilimdeki en ünlü bulguları içeren makaleleri okumak ister misiniz? O zaman Reed Elsevier gibi
+yayınevlerine çok büyük miktarlar göndermeniz gerekecektir.
 
-Bu ödemek için fazla yüksek bir bedel. Akademisyenleri meslektaşlarının
-çalışmalarını okuması için ödemeye zorlamak? Bütün arşivleri tarayarak, bunların
-yalnızca Google’da insanlara okuması için sağlanması? Birinci Dünya seçkin
-üniversitesindekilere bu bilimsel makalelerin sağlanması, fakat Küresel Güney
-çocuklarına sağlanmaması? Bu çirkin ve kabul edilemez.
+Bu durumu değiştirmek için mücadele edenler var. Açık Erişim Hareketi, bilim adamlarını
+telif hakkı imzalamak yerine çalışmalarının internette herkese açık bir şekilde yayınlanmış
+olmasından emin olmasını sağlamak için cesurca mücadele ediyor. Ancak en iyi senaryolar
+altında bile bu çalışmalar gelecekte yayınlanacak şeyler için geçerli olacaktır.
+Şimdiye kadarki her şey ise yok olacaktır.
 
-''Katılıyorum,'' ''Fakat biz ne yapabiliriz? Şirketler telif haklarını
-tutuyorlar, Erişim ücreti keserek olağanüstü miktarlarda para kazanıyorlar ve
-tamamen yasal — Onları durdurmak için bizim yapabileceğimiz bir şey yok.''  çoğu
-böyle söylüyor. Fakat yapabileceğimiz bir şey var, zaten yaptığımız bir şey:
+Bu ödemek için çok yüksek bir bedel. Akademisyenleri meslektaşlarının çalışmalarını
+okuması için ödemeye zorlamak? Bütün arşivlerin taranıp, bunların yalnızca Google’da insanlara
+okuması için sağlanması? Birinci Dünya ülkelerinin seçkin üniversitesindekilere
+bu bilimsel makalelerin sağlanması, ama Güney yarımküredeki çocuklara sağlanmaması?
+Bu çirkin ve kabul edilemez.
+
+Çoğunluk "Katılıyorum", "Fakat biz ne yapabiliriz? Şirketler telif haklarını
+ellerinde tutuyorlar, erişim ücreti keserek olağanüstü miktarlarda para kazanıyorlar
+ve bu tamamen yasal — Onları durdurmak için bizim yapabileceğimiz bir şey yok." diyor.
+Fakat yapabileceğimiz, hala daha yaptığımız bir şey var:
 Mücadele edebiliriz.
 
-Bu kaynaklara erişimi olanlar—  öğrenciler, kütüphaneciler, bilim adamları —Size
-bir ayrıcalık verilmiştir. Dünyanın geri kalanı dışarı kilitli iken siz bu bilgi
-ziyafetinden beslenirsiniz. Ama gerek yok—gerçekten, ahlaki açıdan, yapamazsınız
-— bu ayrıcalığı kendiniz için koruyun. Siz dünya ile o bilgiyi paylaşma görevine
-sahipsiniz. Ve meslektaşlarınızla ticari şifreleri, arkadaşlarınızın indirme
+Bu kaynaklara erişimi olanlar — öğrenciler, kütüphaneciler, bilim adamları — Size
+bir ayrıcalık verilmiştir. Dünyanın geri kalanı dışarıda eli kolu bağlı iken siz bu bilgi
+ziyafetinden beslenirsiniz. Ama gerek yok — aslında ahlaki olarak yapamazsınız —
+bu ayrıcalığı kendiniz için koruyun. Siz Dünya ile o bilgiyi paylaşma görevine
+sahipsiniz. Meslektaşlarınızla şifrelerinizi paylaşarak, arkadaşlarınızın indirme
 isteklerini yerine getirerek bu göreve sahipsiniz.
 
+Bu arada, dışarıda eli kolu bağlı olanlarda boş durmuyor. Deliklerden gizlice girip
+çitlerin üzerinden tırmanıyor, yayınevlerinin sakladığı bilgiyi özgür kılıyorlar ve bunları
+arkadaşlarınızla paylaşıyorsunuz.
 
-Bu arada kilitli durumda olanlar boş boş durmuyorlar. Siz delikler boyunca
-dolanıp, çitler üzerinde tırmanıp,  yayıncılar tarafında kilitlenmiş bilgiyi
-özgürleştirip ve arkadaşlarınızla paylaşırken.
+Ama bu eylemin tamamı karanlık, gizli yeraltı dünyasında devam ediyor. Sanki
+zengin bir bilgiyi paylaşmak, bir gemiyi yağmalamak ve mürettebatını öldürmekle
+eşdeğermiş gibi, buna hırsızlık veya korsanlık deniyor. Ama paylaşmak ahlaka
+aykırı değil - bir ahlaki zorunluluktur. Sadece açgözlülüğünden kör olmuş kişiler
+bilgiyi arkadaşına koplayamayı reddederler.
 
+Büyük şirketler elbette açgözlülükten kör olmuş durumda. Faaliyet gösterdikleri
+yasalar bunu gerektiriyor — hissedarları daha azına ayaklanma çıkarırlar.
+Ve satın aldıkları politikacılar da onlara destek vererek, kimin kopya
+çıkarabileceğine karar verme konusunda ayrıcalıklı yetki veren yasalar çıkarıyorlar.
 
-Ama bu eylemin tamamı karanlık, gizli yer altı dünyasında devam ediyor. Bu
-çalmak ya da korsanlık olarak adlandırılır, bir bilgi zenginliğini paylaşmak,
-bir gemiyi yağmalayıp ve mürettebatını öldürmekle ahlaki olarak eşdeğermiş gibi.
-Ancak paylaşım ahlak dışı değil - ahlaki bir zorunluluktur. Sadece
-açgözlülüğünden kör olmuş kişiler bilgiyi arkadaşına koplayamayı reddederler.
+Adaletsiz yasalara uymak adaletsizliktir. Gün ışığına çıkmanın ve büyük direniş içinde
+bu gizli kamu kültürü hırsızlığına karşı olduğumuzu ilan etmenin zamanı geldi.
 
-Tabii, büyük şirketler, açgözlülüklerinden kör edilmiştir. Çalışmaları
-kapsamındaki kanunlar bunu gerektiriyor—Hissedarları daha azına ayaklanma
-çıkarırlar. Ve politikacılar onları arkalarından rüşvetle elde etmiş, kopyaları
-yapabilecek kişileri belirlemek için yasaları geçip onlara özel güç
-vermişlerdir.
-
-Gün ışığına çıkma vakti geldi ve sivile itaatsizliğin büyük geleneğini, bu özel
-kamu kültürü hırsızlığına karşı bizim dile getirmemizin zamanı geldi.
-
-Bilgiyi almak gerekir, her nerde saklanmış ise, kendi kopyalarımızı yapıp ve
-onları bütün dünya ile paylaşmamız gerekiyor. Telif hakkı sonlanmış ürünleri
-almamız ve arşive eklememiz gerekir. Gizli veritabanlarını satın alıp onları
-Web'e koymamız gerekiyor. Bilim dergileri indirip, paylaşım ağı dosyalarına
+Bilgiler her nerde saklanmış ise onları almamız gerekir, kendi kopyalarımızı yapıp,
+onları bütün dünya ile paylaşmamız gerekiyor. Telif hakkı sonlanmış şeyleri
+almamız ve arşive eklememiz gerekir. Gizli veritabanları satın alıp onları
+internete koymamız gerekiyor. Bilim dergilerini indirip, dosya paylaşım ağlarına
 yüklememiz gerekir. Gerilla Açık Erişim için mücadele etmemiz gerekir.
 
 Tüm dünyada, bizim kadar kişiyle, sadece güçlü bir mesaj göndermeyeceğiz ayrıca
 bilginin özelleştirilmesine karşı olacağız.
 
-Biz geçmişte bir şey yapacağız.  Bize katılır mısınız?
+Biz geçmişe miras bırakacağız. Bize katılır mısınız?
 
-Aaron Swartz Temmuz 2008, Eremo, İtalya 
+Aaron Swartz
+Temmuz 2008, Eremo, İtalya 
